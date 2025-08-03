@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac
+ygreee00](http://mazassumnida.wtf/api/v2/generate_badge?boj=ygreee00)](https://solved.ac/ygreee00)
+
+![ygreee0320's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygreee0320&show_icons=true&theme=radical)
+
+<a href=https://velog.io/@ygreee00/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
