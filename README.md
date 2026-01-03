@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 **Tech Stack** 
+## 🛠 Tech Stack
 
 **🌱 Language**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-0097A7.svg?style=for-the-badge&logo=Mediapipe&logoColor=white)
 
----
-**📜 Certificates**
+## 📜 Certificates
 - 정보처리기사 `2025.09`
 - SQLD `2024.04`
 - ADsP `2025.11`
