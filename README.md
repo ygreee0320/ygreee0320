@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🚀 Experience
+- **우리FISA 6기 - 클라우드 엔지니어링** `2025.12 ~`
+- **한국대학생IT경영학회 KUSITMS 29기 - Android Developer** `2024.02 ~ 2024.06`
+
 ## 🛠 Tech Stack
 
 **🌱 Language**  
