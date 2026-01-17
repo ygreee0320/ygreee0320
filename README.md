@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Experience
 - **우리FISA 6기 - 클라우드 엔지니어링** `2025.12 ~`
+- **(주)플레도 Intern - Android Developer** `2024.08 ~ 2024.11`
 - **한국대학생IT경영학회 KUSITMS 29기 - Android Developer** `2024.02 ~ 2024.06`
 
 ## 🛠 Tech Stack
@@ -49,6 +50,9 @@ Here are some ideas to get you started:
 - SQLD `2024.04`
 - ADsP `2025.11`
 - 리눅스마스터 2급 `2023.03`
+
+## 🏆 Awards
+- 2025 한이음 드림업 - 장려상 `2025.11`
 
 ### **Algorithm**
 
